@@ -1,0 +1,18 @@
+{
+  "1": {
+    "EventTitle": "Суши-Мастер",
+    "EventMap": "Кухня",
+    "InfoEvent": "Описание события",
+    "Icon": "assets/icons/sushi-master.png",
+    "Banner": "assets/banner/sushi-master.png",
+    "Color": "58b7a3"
+  },
+  "2": {
+    "EventTitle": "Фастфуд-бой",
+    "EventMap": "Город",
+    "InfoEvent": "Другое описание",
+    "Icon": "assets/icons/fastfood.png",
+    "Banner": "assets/banner/fastfood.png",
+    "Color": "b5323a"
+  }
+}
