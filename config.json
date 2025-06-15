@@ -1,6 +1,6 @@
 [
   {
-    "version": 1,
+    "version": 2,
     "update_link": "https://example.com",
     "maintenance": false,
     "maintenance_time": "2025-06-16 9:00"
