@@ -7,13 +7,8 @@
     "soon_cards": [
       {
         "id": 94,
-        "timeout": "2025-06-17 21:30",
-        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Ультралегенд/Ультралегенд"
-      },
-      {
-        "id": 95,
-        "timeout": "2025-06-17 22:50",
-        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Ультралегенд/Ультралегенд"
+        "timeout": "2025-06-17 22:00",
+        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Ультралегенд/Ультралегенд/94"
       }
     ]
   }
