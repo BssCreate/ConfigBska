@@ -2,8 +2,8 @@
   {
     "version": 1,
     "update_link": "https://example.com",
-    "maintenance": false,
-    "maintenance_time": "2025-06-16 9:00",
+    "maintenance": true,
+    "maintenance_time": "2025-06-20 13:00",
     "soon_cards": [
       {
         "id": 93,
