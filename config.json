@@ -18,18 +18,16 @@
       {
         "id": 95,
         "timeout": "2025-07-15 13:00",
-        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Эпик/Эпик/95" 
-      } 
+        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Эпик/Эпик/95"
+      }
     ],
-    "shop" : {
-      "everyday_gift": [
+    "shop": {
+      "everyday_gift": {
         "coins": "50,300",
         "gems": "1,5",
         "bling": "10,50"
-      ],
-      "offers": [
-        
-       }
-    ]
+      },
+      "offers": []
+    }
   }
 ]
