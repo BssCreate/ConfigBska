@@ -23,9 +23,9 @@
     ],
     "shop" : [
       "everyday_gift": [
-        "coins": 50,
-        "gems": 1,
-        "bling": 10
+        "coins": "50,300",
+        "gems": "1,5",
+        "bling": "10,50"
       ],
       "offers": [
         
