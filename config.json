@@ -21,12 +21,6 @@
         "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Эпик/Эпик/95"
       }
     ],
-    "trophy_road": {
-      "res2": "25,coins100",
-      "res3": "50,gems5",
-      "res4": "100,bling50",
-      "res5_g": "150,card5"
-    },
     "shop": {
       "everyday_gift": {
         "coins": "50,300",
