@@ -30,7 +30,18 @@
         "gems": "1,5",
         "bling": "10,50"
       },
-      "offers": []
+      "offers": [
+      {
+        "offer_id": 1,
+        "title": "заголовок акции",
+        "subtitle": "none",
+        "big_offer": false,
+        "bgr": "default",
+        "reward": "coins",
+        "cost": 0,
+        "amount": 250
+      }
+      ]
     }
   }
 ]
