@@ -9,6 +9,24 @@
     "brawlp_name": "ХЕЛЛОУИНСКИЕ\nСКАЗКИ",
     "brawlp_type": "45-Й СЕЗОН",
     "theme": 1,
+    "Challenge" {
+        "EspB1" {
+            "Enabled": true,
+            "Name": "название испытухи",
+            "Icon": "res://assets/Icons/970.png",
+            "Background": "",
+            "StartTime": "2025-10-30 13:00",
+            "EndTime": "2025-11-05 13:00",
+            "Maps": [1, 2],
+            "Wins": [2, 2],
+            "Rewards": [
+                {"Win": 1,"type": "coins", "Amount": 100},
+                {"Win": 2,"type": "card", "card_id": 2, "card_rarity": "Rare" },
+                {"Win": 3, "type": "drop", "amount": 1, "drop_rarity": "random" }
+            ],
+            "FinalReward": {"type": "card", "card_id": 3, "card_rarity": "Rare" }
+        }
+    },
     "soon_cards": [
       {
         "id": 93,
