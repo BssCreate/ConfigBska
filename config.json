@@ -25,7 +25,7 @@
                 {"Win": 3, "type": "drop", "amount": 1, "drop_rarity": "random" }
             ],
             "FinalReward": {"type": "card", "card_id": 3, "card_rarity": "Rare" }
-        }
+        },
     },
     "soon_cards": [
       {
