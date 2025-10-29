@@ -9,6 +9,18 @@
     "brawlp_name": "ХЕЛЛОУИНСКИЕ\nСКАЗКИ",
     "brawlp_type": "45-Й СЕЗОН",
     "theme": 1,
+    "EventSob": {
+      "Gift1": "200,coins,500",
+      "Gift2": "500,drop,1,Epic",
+      "Gift3": "1000,drop,1,Myfik",
+      "Gift4": "1100,bling,500",
+      "Gift5": "1200,drop,1,Myfik",
+      "Gift6": "1400,drop,1,Epic",
+      "Gift7": "1700,profile_icon,004",
+      "Gift8": "1800,gems,50",
+      "Gift9": "1900,profile_icon,005",
+      "Gift10": "2000,drop,1,Legend"
+    },
     "Challenge": {
       "EspB1": {
         "Enabled": true,
