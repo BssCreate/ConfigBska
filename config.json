@@ -66,14 +66,17 @@
       },
       "offers": [
         {
-          "offer_id": 1,
-          "title": "заголовок акции",
+          "offer_id": 1, 
+          "title": "заголовок акции", 
+          "TimeIn": "2025-10-30 13:00",
+          "TimeOut": "2025-10-31 13:00",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
           "reward": "coins",
           "cost": 0,
-          "amount": 250
+          "cost_price": gems,
+          "amount": "250"
         }
       ]
     }
