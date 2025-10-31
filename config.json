@@ -68,8 +68,7 @@
         {
           "offer_id": 1,
           "title": "НОВИЧОК УДАЧИ!",
-          "TimeIn": "2025-10-30 13:00",
-          "TimeOut": "2025-11-01 13:00",
+          "duration": 172800,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -81,8 +80,7 @@
         {
           "offer_id": 2,
           "title": "ЗОЛОТАЯ ЛИХОРАДКА",
-          "TimeIn": "2025-10-30 14:00",
-          "TimeOut": "2025-11-02 14:00",
+          "duration": 259200,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -94,8 +92,7 @@
         {
           "offer_id": 3,
           "title": "БЛЕСТЯЩАЯ СДЕЛКА",
-          "TimeIn": "2025-10-31 10:00",
-          "TimeOut": "2025-11-03 10:00",
+          "duration": 345600,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -107,8 +104,7 @@
         {
           "offer_id": 4,
           "title": "КРИСТАЛЬНЫЙ БОНУС",
-          "TimeIn": "2025-10-31 12:00",
-          "TimeOut": "2025-11-04 12:00",
+          "duration": 432000,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -120,8 +116,7 @@
         {
           "offer_id": 5,
           "title": "ЭПИЧЕСКИЙ ВЫБОР",
-          "TimeIn": "2025-11-01 09:00",
-          "TimeOut": "2025-11-05 09:00",
+          "duration": 518400,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -134,8 +129,7 @@
         {
           "offer_id": 6,
           "title": "ЛЕГЕНДАРНЫЙ ШАНС",
-          "TimeIn": "2025-11-01 15:00",
-          "TimeOut": "2025-11-06 15:00",
+          "duration": 604800,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -148,8 +142,7 @@
         {
           "offer_id": 7,
           "title": "УНИКАЛЬНАЯ ИКОНКА",
-          "TimeIn": "2025-11-02 11:00",
-          "TimeOut": "2025-11-07 11:00",
+          "duration": 691200,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -162,8 +155,7 @@
         {
           "offer_id": 8,
           "title": "КОЛЛЕКЦИОННАЯ КАРТА",
-          "TimeIn": "2025-11-02 16:00",
-          "TimeOut": "2025-11-08 16:00",
+          "duration": 777600,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -177,8 +169,7 @@
         {
           "offer_id": 9,
           "title": "МИФИЧЕСКИЙ ГЕРОЙ",
-          "TimeIn": "2025-11-03 13:00",
-          "TimeOut": "2025-11-09 13:00",
+          "duration": 864000,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -192,8 +183,7 @@
         {
           "offer_id": 10,
           "title": "СУПЕР НАБОР",
-          "TimeIn": "2025-11-03 18:00",
-          "TimeOut": "2025-11-10 18:00",
+          "duration": 950400,
           "subtitle": "none",
           "big_offer": true,
           "bgr": "special",
@@ -205,8 +195,7 @@
         {
           "offer_id": 11,
           "title": "КОМБО ПАК",
-          "TimeIn": "2025-11-04 10:00",
-          "TimeOut": "2025-11-11 10:00",
+          "duration": 1036800,
           "subtitle": "none",
           "big_offer": true,
           "bgr": "special",
@@ -218,8 +207,7 @@
         {
           "offer_id": 12,
           "title": "ПОДАРОК ДНЯ",
-          "TimeIn": "2025-11-04 14:00",
-          "TimeOut": "2025-11-04 23:59",
+          "duration": 36000,
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
