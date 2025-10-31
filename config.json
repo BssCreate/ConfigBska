@@ -75,8 +75,8 @@
           "bgr": "default",
           "reward": "coins",
           "cost": 0,
-          "cost_price": gems,
-          "amount": "250"
+          "cost_price": "gems",
+          "amount": 250
         }
       ]
     }
