@@ -67,18 +67,18 @@
       "offers": [
         {
           "offer_id": 1,
-          "title": "НОВИЧОК УДАЧИ!",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "title": "Добро пожаловать!",
+          "TimeIn": "2025-11-01 13:00",
+          "TimeOut": "2025-11-08 13:00",
           "subtitle": "none",
           "big_offer": false,
-          "bgr": "default",
-          "reward": "coins",
-          "sale": 74,
-          "saletext": 50,
-          "cost": 149,
-          "cost_price": "gems",
-          "amount": 250
+          "bgr": "holiday",
+          "reward": "gems",
+          "cost": 200,
+          "cost_price": "coins",
+          "amount": 100,
+          "sale": 20,
+          "saletext": 80
         },
         {
           "offer_id": 2,
