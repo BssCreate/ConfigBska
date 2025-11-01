@@ -74,7 +74,8 @@
           "big_offer": false,
           "bgr": "default",
           "reward": "coins",
-          "cost": 0,
+          "sale": 50,
+          "cost": 100,
           "cost_price": "gems",
           "amount": 250
         },
