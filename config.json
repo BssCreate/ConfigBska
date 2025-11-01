@@ -98,7 +98,7 @@
           "TimeOut": "2025-11-05 13:00",
           "subtitle": "none",
           "big_offer": false,
-          "bgr": "default",
+          "bgr": "brawlidays",
           "reward": "bling",
           "cost": 100,
           "cost_price": "coins",
@@ -111,7 +111,7 @@
           "TimeOut": "2025-11-05 13:00",
           "subtitle": "none",
           "big_offer": false,
-          "bgr": "default",
+          "bgr": "brawlidays",
           "reward": "gems",
           "cost": 500,
           "cost_price": "coins",
@@ -217,17 +217,17 @@
         },
         {
           "offer_id": 12,
-          "title": "ПОДАРОК ДНЯ",
+          "title": "С НОВЫМ ГОДОМ!",
           "TimeIn": "2025-10-31 13:00",
           "TimeOut": "2025-11-05 13:00",
           "subtitle": "none",
           "big_offer": false,
-          "bgr": "default",
+          "bgr": "brawlidays",
           "reward": "drop",
           "cost": 0,
           "cost_price": "gems",
           "amount": 1,
-          "drop_rarity": "random"
+          "drop_rarity": "Legend"
         }
       ]
     }
