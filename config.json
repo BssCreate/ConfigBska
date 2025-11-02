@@ -183,13 +183,9 @@
           "title": "МИФИЧЕСКИЙ ГЕРОЙ",
           "TimeIn": "2025-10-31 13:00",
           "TimeOut": "2025-11-05 13:00",
-          "subtitle": "none",
+          "subtitle": "sssssssssss",
           "big_offer": true,
-          "bgr": "holiday_red",
-          "reward": "coins",
-          "cost": 0,
-          "cost_price": "gems",
-          "amount": 1
+          "bgr": "holiday_red"
         },
         {
           "offer_id": 10,
