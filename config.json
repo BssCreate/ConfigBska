@@ -184,14 +184,12 @@
           "TimeIn": "2025-10-31 13:00",
           "TimeOut": "2025-11-05 13:00",
           "subtitle": "none",
-          "big_offer": false,
+          "big_offer": true,
           "bgr": "holiday_red",
-          "reward": "card",
-          "cost": 500,
+          "reward": "coins",
+          "cost": 0,
           "cost_price": "gems",
-          "amount": 1,
-          "card_id": 78,
-          "card_rarity": "Myfik"
+          "amount": 1
         },
         {
           "offer_id": 10,
