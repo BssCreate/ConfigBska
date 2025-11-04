@@ -12,16 +12,16 @@
     "EventSobIn": "2025-11-04 20:50",
     "EventSobOut": "2025-11-20 14:00",
     "EventSob": {
-      "Gift1": "100,coins,500",
-      "Gift2": "200,drop,1,Epic",
-      "Gift3": "300,drop,1,Myfik",
-      "Gift4": "400,bling,500",
-      "Gift5": "500,drop,1,Myfik",
-      "Gift6": "600,drop,1,Epic",
-      "Gift7": "700,profile_icon,004",
-      "Gift8": "800,gems,50",
-      "Gift9": "900,profile_icon,005",
-      "Gift10": "1000,drop,1,Legend"
+      "Gift1": "10,coins,500",
+      "Gift2": "20,drop,1,Epic",
+      "Gift3": "30,drop,1,Myfik",
+      "Gift4": "40,bling,500",
+      "Gift5": "50,drop,1,Myfik",
+      "Gift6": "100,drop,1,Epic",
+      "Gift7": "150,profile_icon,004",
+      "Gift8": "200,gems,50",
+      "Gift9": "250,profile_icon,005",
+      "Gift10": "300,drop,1,Legend"
     },
     "Challenge": {
       "EspB1": {
