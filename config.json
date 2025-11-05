@@ -99,7 +99,7 @@
           "cost": 200,
           "cost_price": "coins",
           "amount": 1,
-          "drop_rarity": "Legend"
+          "drop_rarity": "Legend",
           "arrow": false
         }
       ],
