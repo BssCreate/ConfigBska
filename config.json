@@ -64,6 +64,36 @@
         "gems": "1,5",
         "bling": "10,50"
       },
+      "big_offer_1": [
+        {
+          "offer_id": 10,
+          "title": "Добро пожаловать!",
+          "TimeIn": "2025-11-01 13:00",
+          "subtitle": "none",
+          "bgr": "holiday",
+          "reward": "gems",
+          "cost": 200,
+          "cost_price": "coins",
+          "amount": 100,
+          "sale": 20,
+          "saletext": 80,
+          "arrow": false
+        },
+        {
+          "offer_id": 11,
+          "title": "Добро пожаловать!",
+          "TimeIn": "2025-11-01 13:00",
+          "subtitle": "none",
+          "bgr": "holiday",
+          "reward": "gems",
+          "cost": 200,
+          "cost_price": "coins",
+          "amount": 100,
+          "sale": 20,
+          "saletext": 80,
+          "arrow": true
+        },
+      ],
       "offers": [
         {
           "offer_id": 1,
