@@ -68,7 +68,7 @@
         {
           "offer_id": 10,
           "title": "День 1",
-          "TimeIn": "2025-11-05 01:27",
+          "TimeIn": "2025-11-05 01:38",
           "subtitle": "none",
           "bgr": "holiday",
           "reward": "coins",
@@ -80,7 +80,7 @@
         {
           "offer_id": 11,
           "title": "День 2",
-          "TimeIn": "2025-11-06 01:28",
+          "TimeIn": "2025-11-06 01:40",
           "subtitle": "none",
           "bgr": "holiday",
           "reward": "bling",
@@ -92,7 +92,7 @@
         {
           "offer_id": 12,
           "title": "День 3",
-          "TimeIn": "2025-11-06 01:29",
+          "TimeIn": "2025-11-06 01:41",
           "subtitle": "none",
           "bgr": "holiday",
           "reward": "drop",
