@@ -67,7 +67,7 @@
       "big_offer_9": [
         {
           "offer_id": 10,
-          "title": "День 1",
+          "title": "ДЕНЬ 1",
           "TimeIn": "2025-11-05 01:58",
           "subtitle": "none",
           "bgr": "holiday_red",
@@ -79,7 +79,7 @@
         },
         {
           "offer_id": 11,
-          "title": "День 2",
+          "title": "ДЕНЬ 2",
           "TimeIn": "2025-11-06 02:20",
           "subtitle": "none",
           "bgr": "holiday_red",
@@ -90,8 +90,44 @@
           "arrow": true
         },
         {
-          "offer_id": 12,
-          "title": "День 3",
+          "offer_id": 11,
+          "title": "ДЕНЬ 3",
+          "TimeIn": "2025-11-06 02:20",
+          "subtitle": "none",
+          "bgr": "holiday_red",
+          "reward": "bling",
+          "cost": 0,
+          "cost_price": "coins",
+          "amount": 250,
+          "arrow": true
+        },
+        {
+          "offer_id": 11,
+          "title": "ДЕНЬ 4",
+          "TimeIn": "2025-11-06 02:20",
+          "subtitle": "none",
+          "bgr": "holiday_red",
+          "reward": "bling",
+          "cost": 0,
+          "cost_price": "coins",
+          "amount": 250,
+          "arrow": true
+        },
+        {
+          "offer_id": 11,
+          "title": "ДЕНЬ 5",
+          "TimeIn": "2025-11-06 02:20",
+          "subtitle": "none",
+          "bgr": "holiday_red",
+          "reward": "bling",
+          "cost": 0,
+          "cost_price": "coins",
+          "amount": 250,
+          "arrow": true
+        },
+        {
+          "offer_id": 20,
+          "title": "ДЕНЬ 10",
           "TimeIn": "2025-11-06 02:30",
           "subtitle": "none",
           "bgr": "holiday_red",
@@ -219,10 +255,10 @@
         },
         {
           "offer_id": 9,
-          "title": "МИФИЧЕСКИЙ ГЕРОЙ",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-07 13:00",
-          "subtitle": "sssssssssss",
+          "title": "ПОДАРКИ К ПРАЗДНИКАМ!",
+          "TimeIn": "2025-11-05 13:00",
+          "TimeOut": "2025-11-19 13:00",
+          "subtitle": "ЗАХОДИ В ИГРУ КАЖДЫЙ ДЕНЬ, ЧТОБ ПОЛУЧИТЬ ВСЕ ПОДАРКИ!",
           "big_offer": true,
           "bgr": "holiday_red"
         },
