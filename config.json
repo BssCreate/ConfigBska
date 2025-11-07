@@ -58,29 +58,30 @@
         "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Эпик/Эпик/95"
       }
     ],
+    {
     "shop": {
       "everyday_gift": {
         "coins": "50,300",
-        "gems": "1,5",
+        "gems": "1,5", 
         "bling": "10,50"
       },
       "big_offer_9": [
         {
           "offer_id": 10,
           "title": "ДЕНЬ 1",
-          "TimeIn": "2025-11-05 01:58",
+          "TimeIn": "1762336680",
           "subtitle": "none",
           "bgr": "holiday_red",
           "reward": "coins",
           "cost": 0,
-          "cost_price": "coins",
+          "cost_price": "coins", 
           "amount": 500,
           "arrow": true
         },
         {
           "offer_id": 11,
           "title": "ДЕНЬ 2",
-          "TimeIn": "2025-11-06 02:20",
+          "TimeIn": "1762423200",
           "subtitle": "none",
           "bgr": "holiday_red",
           "reward": "bling",
@@ -91,8 +92,8 @@
         },
         {
           "offer_id": 11,
-          "title": "ДЕНЬ 3",
-          "TimeIn": "2025-11-06 02:20",
+          "title": "ДЕНЬ 3", 
+          "TimeIn": "1762423200",
           "subtitle": "none",
           "bgr": "holiday_red",
           "reward": "bling",
@@ -104,8 +105,8 @@
         {
           "offer_id": 11,
           "title": "ДЕНЬ 4",
-          "TimeIn": "2025-11-06 02:20",
-          "subtitle": "none",
+          "TimeIn": "1762423200",
+          "subtitle": "none", 
           "bgr": "holiday_red",
           "reward": "bling",
           "cost": 0,
@@ -116,10 +117,10 @@
         {
           "offer_id": 11,
           "title": "ДЕНЬ 5",
-          "TimeIn": "2025-11-06 02:20",
+          "TimeIn": "1762423200",
           "subtitle": "none",
           "bgr": "holiday_red",
-          "reward": "bling",
+          "reward": "bling", 
           "cost": 0,
           "cost_price": "coins",
           "amount": 250,
@@ -128,7 +129,7 @@
         {
           "offer_id": 20,
           "title": "ДЕНЬ 10",
-          "TimeIn": "2025-11-06 02:30",
+          "TimeIn": "1762425000",
           "subtitle": "none",
           "bgr": "holiday_red",
           "reward": "drop",
@@ -158,8 +159,8 @@
         {
           "offer_id": 2,
           "title": "ЗОЛОТАЯ ЛИХОРАДКА",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800", 
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -173,8 +174,8 @@
         {
           "offer_id": 3,
           "title": "БЛЕСТЯЩАЯ СДЕЛКА",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "holiday",
@@ -186,8 +187,8 @@
         {
           "offer_id": 4,
           "title": "КРИСТАЛЬНЫЙ БОНУС",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "holiday",
@@ -199,8 +200,8 @@
         {
           "offer_id": 5,
           "title": "ЭПИЧЕСКИЙ ВЫБОР",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -213,8 +214,8 @@
         {
           "offer_id": 6,
           "title": "ЛЕГЕНДАРНЫЙ ШАНС",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "holiday_red",
@@ -227,8 +228,8 @@
         {
           "offer_id": 7,
           "title": "УНИКАЛЬНАЯ ИКОНКА",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "default",
@@ -241,8 +242,8 @@
         {
           "offer_id": 8,
           "title": "КОЛЛЕКЦИОННАЯ КАРТА",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "holiday_red",
@@ -256,8 +257,8 @@
         {
           "offer_id": 9,
           "title": "ПОДАРКИ К ПРАЗДНИКАМ!",
-          "TimeIn": "2025-11-05 13:00",
-          "TimeOut": "2025-11-19 13:00",
+          "TimeIn": "1762336800",
+          "TimeOut": "1763546400",
           "subtitle": "ЗАХОДИ В ИГРУ КАЖДЫЙ ДЕНЬ, ЧТОБ ПОЛУЧИТЬ ВСЕ ПОДАРКИ!",
           "big_offer": true,
           "bgr": "holiday_red"
@@ -265,8 +266,8 @@
         {
           "offer_id": 10,
           "title": "СУПЕР НАБОР",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": true,
           "bgr": "special",
@@ -278,8 +279,8 @@
         {
           "offer_id": 11,
           "title": "КОМБО ПАК",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": true,
           "bgr": "special",
@@ -291,8 +292,8 @@
         {
           "offer_id": 12,
           "title": "С НОВЫМ ГОДОМ!",
-          "TimeIn": "2025-10-31 13:00",
-          "TimeOut": "2025-11-05 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "holiday",
