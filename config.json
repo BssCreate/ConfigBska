@@ -43,19 +43,19 @@
     },
     "soon_cards": [
       {
-        "id": 93,
-        "timeout": "2025-11-05 13:00",
-        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Ультралегенд/Ультралегенд/93"
-      },
-      {
-        "id": 94,
-        "timeout": "2025-10-15 13:00",
-        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Мифик/Мифик/94"
-      },
-      {
         "id": 95,
-        "timeout": "2025-08-15 13:00",
-        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Эпик/Эпик/95"
+        "timeout": "2025-11-15 13:00",
+        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Мифик/Мифик/95"
+      },
+      {
+        "id": 96,
+        "timeout": "2025-11-25 13:00",
+        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Мифик/Мифик/96"
+      },
+      {
+        "id": 97,
+        "timeout": "2025-11-05 13:00",
+        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Мифик/Мифик/97"
       }
     ],
     "shop": {
