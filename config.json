@@ -143,8 +143,8 @@
         {
           "offer_id": 1,
           "title": "Добро пожаловать!",
-          "TimeIn": "2025-11-01 13:00",
-          "TimeOut": "2025-11-08 13:00",
+          "TimeIn": "1761908400",
+          "TimeOut": "1762336800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "holiday",
