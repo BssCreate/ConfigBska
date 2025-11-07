@@ -9,8 +9,8 @@
     "brawlp_name": "ХЕЛЛОУИНСКИЕ\nСКАЗКИ",
     "brawlp_type": "45-Й СЕЗОН",
     "theme": 3,
-    "EventSobIn": "2025-11-04 20:50",
-    "EventSobOut": "2025-11-20 14:00",
+    "EventSobIn": "1762354200",
+    "EventSobOut": "1763625600",
     "EventSob": {
       "Gift1": "10,coins,500",
       "Gift2": "20,drop,1,Epic",
