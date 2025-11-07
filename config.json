@@ -154,11 +154,12 @@
           "TimeOut": "1763547600",
           "subtitle": "none",
           "bgr": "holiday_red",
-          "reward": "coins",
+          "reward": "profile_icon",
           "cost": 0,
           "cost_price": "coins",
           "amount": 250,
-          "arrow": true
+          "arrow": true,
+          "icon": "005"
         },
         {
           "offer_id": 17,
