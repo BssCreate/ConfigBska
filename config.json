@@ -43,19 +43,19 @@
     },
     "soon_cards": [
       {
-        "id": 95,
-        "timeout": "2025-11-15 13:00",
-        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Мифик/Мифик/95"
-      },
-      {
         "id": 96,
-        "timeout": "2025-11-25 13:00",
+        "timeout": "2025-11-15 13:00",
         "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Мифик/Мифик/96"
       },
       {
         "id": 97,
-        "timeout": "2025-11-05 13:00",
+        "timeout": "2025-11-25 13:00",
         "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Мифик/Мифик/97"
+      },
+      {
+        "id": 98,
+        "timeout": "2025-11-05 13:00",
+        "patch": "Cards/UI/ScrollContainer/MarginContainer/VBox/Мифик/Мифик/98"
       }
     ],
     "shop": {
