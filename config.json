@@ -197,33 +197,31 @@
       "offers": [
         {
           "offer_id": 1,
-          "title": "Добро пожаловать!",
+          "title": "Событие SQUAD BRAWL!",
           "TimeIn": "1761908400",
-          "TimeOut": "176271007",
+          "TimeOut": "1763618400",
           "subtitle": "none",
           "big_offer": false,
-          "bgr": "holiday",
-          "reward": "gems",
-          "cost": 200,
+          "bgr": "holiday_red",
+          "reward": "profile_icon",
+          "cost": 0,
           "cost_price": "coins",
-          "amount": 100,
-          "sale": 20,
-          "saletext": 80
+          "amount": 1,
+          "icon": "005"
         },
         {
           "offer_id": 2,
-          "title": "ЗОЛОТАЯ ЛИХОРАДКА",
+          "title": "Событие SQUAD BRAWL!",
           "TimeIn": "1761908400",
-          "TimeOut": "1762336800", 
+          "TimeOut": "1763618400",
           "subtitle": "none",
           "big_offer": false,
-          "bgr": "default",
-          "reward": "coins",
-          "sale": 49,
-          "saletext": 40,
-          "cost": 79,
-          "cost_price": "gems",
-          "amount": 1000
+          "bgr": "holiday_red",
+          "reward": "profile_icon",
+          "cost": 0,
+          "cost_price": "coins",
+          "amount": 1,
+          "icon": "006"
         },
         {
           "offer_id": 3,
