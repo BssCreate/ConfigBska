@@ -196,7 +196,7 @@
       ],
       "offers": [
         {
-          "offer_id": 1,
+          "offer_id": 6,
           "title": "Событие SQUAD BRAWL!",
           "TimeIn": "1761908400",
           "TimeOut": "1763618400",
@@ -210,7 +210,7 @@
           "icon": "005"
         },
         {
-          "offer_id": 2,
+          "offer_id": 7,
           "title": "Событие SQUAD BRAWL!",
           "TimeIn": "1761908400",
           "TimeOut": "1763618400",
