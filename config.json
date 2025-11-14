@@ -224,6 +224,48 @@
           "icon": "006"
         },
         {
+          "offer_id": 8,
+          "title": "Событие SQUAD BRAWL!",
+          "TimeIn": "1761908400",
+          "TimeOut": "1763618400",
+          "subtitle": "none",
+          "big_offer": false,
+          "bgr": "holiday_red",
+          "reward": "drop",
+          "cost": 0,
+          "cost_price": "coins",
+          "amount": 1,
+          "drop_rarity": "Legend"
+        },
+        {
+          "offer_id": 9,
+          "title": "Событие SQUAD BRAWL!",
+          "TimeIn": "1761908400",
+          "TimeOut": "1763618400",
+          "subtitle": "none",
+          "big_offer": false,
+          "bgr": "holiday_red",
+          "reward": "drop",
+          "cost": 0,
+          "cost_price": "coins",
+          "amount": 1,
+          "drop_rarity": "Legend"
+        },
+        {
+          "offer_id": 99,
+          "title": "Событие SQUAD BRAWL!",
+          "TimeIn": "1761908400",
+          "TimeOut": "1763618400",
+          "subtitle": "none",
+          "big_offer": false,
+          "bgr": "holiday_red",
+          "reward": "drop",
+          "cost": 0,
+          "cost_price": "coins",
+          "amount": 1,
+          "drop_rarity": "Legend"
+        },
+        {
           "offer_id": 3,
           "title": "БЛЕСТЯЩАЯ СДЕЛКА",
           "TimeIn": "1761908400",
