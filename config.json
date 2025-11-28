@@ -303,9 +303,24 @@
           "bgr": "holiday_red",
           "reward": "card",
           "cost": 149,
-          "cost_price": "coins",
+          "cost_price": "gems",
           "amount": 1,
           "card_id": 96,
+          "card_rarity": "Myfik"
+        },
+        {
+          "offer_id": 23,
+          "title": "ЧЕРНАЯ ПЯТНИЦА",
+          "TimeIn": "1764309600",
+          "TimeOut": "1764482400",
+          "subtitle": "none",
+          "big_offer": false,
+          "bgr": "holiday_red",
+          "reward": "card",
+          "cost": 149,
+          "cost_price": "gems",
+          "amount": 1,
+          "card_id": 97,
           "card_rarity": "Myfik"
         },
         {
