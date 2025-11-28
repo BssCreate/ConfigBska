@@ -302,10 +302,12 @@
           "big_offer": false,
           "bgr": "holiday_red",
           "reward": "card",
-          "cost": 149,
+          "cost": 299,
           "cost_price": "gems",
           "amount": 1,
           "card_id": 96,
+          "sale": 149,
+          "saletext": 50,
           "card_rarity": "Myfik"
         },
         {
@@ -317,10 +319,12 @@
           "big_offer": false,
           "bgr": "holiday_red",
           "reward": "card",
-          "cost": 149,
+          "cost": 299,
           "cost_price": "gems",
           "amount": 1,
           "card_id": 97,
+          "sale": 149,
+          "saletext": 50,
           "card_rarity": "Myfik"
         },
         {
