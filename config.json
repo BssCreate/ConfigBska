@@ -1,8 +1,8 @@
 [
   {
-    "version": 3,
+    "version": 4,
     "update_link": "https://www.rustore.ru/catalog/app/SquadBrawl.ru",
-    "maintenance": true,
+    "maintenance": false,
     "maintenance_time": "2025-12-17 22:00",
     "trophy_season": "2025-02-01 13:00",
     "brawlp_season": 1769925600,
@@ -11,10 +11,10 @@
     "theme": 3,
     "EventSobIn": "1765951200",
     "EventSobOut": "1768456800",
-    "mail_id": 2,
-    "mail_title": "Новое обновление!\nСтарт зимнего события!",
+    "mail_id": 1,
+    "mail_title": "Новое обновление от 18.12.2025!\nСтарт зимнего события!",
     "mail_link": "https://t.me/SquadBrawl_tg/19",
-    "mail_btn_txt": "ПЕРЕЙТИ",
+    "mail_btn_txt": "ЧИТАТЬ",
     "mail_img": "https://raw.githubusercontent.com/BssCreate/ConfigBska/refs/heads/main/news/winter_banner.png",
     "EventSob": {
       "Gift1": "1000,gems,10",
