@@ -201,10 +201,10 @@
       ],
       "offers": [
         {
-          "offer_id": 6,
-          "title": "Событие SQUAD BRAWL!",
+          "offer_id": 211,
+          "title": "НОВОГОДНЕЕ ЧУДО!",
           "TimeIn": "1761908400",
-          "TimeOut": "1763618400",
+          "TimeOut": "1768456800",
           "subtitle": "none",
           "big_offer": false,
           "bgr": "holiday_red",
@@ -212,7 +212,21 @@
           "cost": 0,
           "cost_price": "coins",
           "amount": 1,
-          "icon": "005"
+          "icon": "007"
+        },
+        {
+          "offer_id": 212,
+          "title": "НОВОГОДНЕЕ ЧУДО!",
+          "TimeIn": "1761908400",
+          "TimeOut": "1768456800",
+          "subtitle": "none",
+          "big_offer": false,
+          "bgr": "holiday_red",
+          "reward": "drop",
+          "drop_rarity": "Legend",
+          "cost": 0,
+          "cost_price": "coins",
+          "amount": 1
         },
         {
           "offer_id": 77,
